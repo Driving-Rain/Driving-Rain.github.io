@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/03/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
+first post. Check <a href="https://hexo.io/docs/">documentation</a> for
+more info. If you get any problems when using Hexo, you can find the
+answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or
+you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2025/03/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
+    <content><![CDATA[<p>title: 第一篇博客 tag: 杂谈</p>
+<h1 id="一级标题">一级标题</h1>
+<p>链接测试：</p>
+<p><a href="https://pku.edu.cn">北京大学 https://pku.edu.cn</a></p>
+<p>代码测试：</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">print</span>(<span class="string">&quot;Hello, world!&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p>公式测试：</p>
+<p><span class="math inline">\(\dfrac{1}{a}+b^2=c_1\)</span> <span class="math display">\[
+E=mc^2
+\]</span> 图片测试：</p>
+<figure>
+<img src="/2025/03/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/avatar.jpg" alt="avatar">
+<figcaption aria-hidden="true">avatar</figcaption>
+</figure>
+<p>表格测试：</p>
+<table>
+<thead>
+<tr>
+<th>00</th>
+<th>10</th>
+<th>20</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>a</td>
+<td>b</td>
+<td>c</td>
+</tr>
+<tr>
+<td>A</td>
+<td>B</td>
+<td>C</td>
+</tr>
+<tr>
+<td><span class="math inline">\(f(z)=\sqrt{z}\)</span></td>
+<td>@@</td>
+<td>##</td>
+</tr>
+</tbody>
+</table>
+<p>PDF文档测试：</p>
+<div class="pdf-container" data-target="/202405v3.pdf" data-height="500px"></div>
+<p>视频测试：</p>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=2284036&amp;bvid=BV14s411D7fB&amp;cid=3560882&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+</iframe>
+<p>引用测试：</p>
+<blockquote>
+<p>这是一条引用</p>
+</blockquote>
+<h2 id="二级标题">二级标题</h2>
+<p>无序列表测试：</p>
+<ul>
+<li>abandon
+<ul>
+<li>a
+<ul>
+<li>b
+<ul>
+<li>c</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>banana</li>
+<li>culture</li>
+</ul>
+<h3 id="三级标题">三级标题</h3>
+<h4 id="四级标题">四级标题</h4>
+]]></content>
+  </entry>
+</search>
